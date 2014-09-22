@@ -2,7 +2,7 @@ Package: cdtRprogramming
 Type: Package
 Title: cdtRprogramming
 Version: 0.12.3
-Date: 2014-09-19
+Date: 2014-09-20
 Authors@R: c(person("Sarah", "Heaps", role = c("aut", "cre"),
 	email = "sarah.heaps@ncl.ac.uk"))
 Author: Sarah Heaps
