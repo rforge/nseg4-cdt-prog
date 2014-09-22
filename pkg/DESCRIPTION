@@ -2,16 +2,14 @@ Package: cdtRprogramming
 Type: Package
 Title: cdtRprogramming
 Version: 0.12.3
-Date: 2014-19-09
-Authors@R: person("Sarah", "Heaps",
-      email="sarah.heaps@ncl.ac.uk", role = c("aut", "cre"))
+Date: 2014-09-19
+Authors@R: c(person("Sarah", "Heaps", role = c("aut", "cre"),
+	email = "sarah.heaps@ncl.ac.uk"))
 Author: Sarah Heaps
 Maintainer: Sarah Heaps <sarah.heaps@ncl.ac.uk>
 Description: A package for Newcastle University's CDT
- in Cloud Computing for Big Data
+	in Cloud Computing for Big Data
 URL: http://teaching.ncl.ac.uk/ccfbd-cdt/
 License: GPL-3
 Depends: R (>= 3.0.0), cdtRintroduction
-Suggests: knitr
 Collate: 'datasets.R' 'cdtRprogramming-package.R'
-VignetteBuilder: knitr
